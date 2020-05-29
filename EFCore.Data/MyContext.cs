@@ -13,5 +13,6 @@ namespace EFCore.Data
             optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=EFCoreDemo;Trusted_Connection=true;");
         }
 
+
     }
 }
